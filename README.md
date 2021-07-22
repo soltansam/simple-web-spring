@@ -1,7 +1,7 @@
 # simple-web-spring
 <html>
   <body>
-    <div>
+    
       <ul>
       
     First generate a spring boot app project by going to start.spring.io
@@ -15,8 +15,10 @@
     You can populate the index.html with a more meaningful content if you like.
     That's it. start the spring boot app by running the project as spring boot application.
     Go to http://localhost:8080 . the page is loaded and app up and running.
+        
+        
       </ul>
-    </div>
+    
   </body>
 </html>
 
