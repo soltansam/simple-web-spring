@@ -2,7 +2,7 @@
 <html>
   <body>
     
-      <ul>
+      
       
     First generate a spring boot app project by going to start.spring.io
     Edit the groupId and ArtifactID and other description fields.
@@ -17,7 +17,7 @@
     Go to http://localhost:8080 . the page is loaded and app up and running.
         
         
-      </ul>
+      
     
   </body>
 </html>
